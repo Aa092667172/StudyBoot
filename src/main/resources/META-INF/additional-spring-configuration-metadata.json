@@ -1,5 +1,22 @@
-{"properties": [{
-  "name": "spring.data.mongodb.user",
-  "type": "java.lang.String",
-  "description": "A description for 'spring.data.mongodb.user'"
-}]}
+{"properties": [
+  {
+    "name": "spring.data.mongodb.user",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.user'"
+  },
+  {
+    "name": "spring.http.charset",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.http.charset'"
+  },
+  {
+    "name": "spring.http.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.http.enabled'"
+  },
+  {
+    "name": "spring.http.force",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.http.force'"
+  }
+]}
